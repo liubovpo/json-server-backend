@@ -1,33 +1,22 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
   "tasks": [
     {
       "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "title": "Example of a task",
+      "description": "It's a description",
+      "dueDate": "10/7/2023",
+      "time":"10:00 - 10:30",
+      "priority": "Medium",
+      "completed": false
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "Just another task",
+      "description": "It's a description",
+      "dueDate": "10/8/2023",
+      "time":"12:00 - 12:30",
+      "priority": "High",
+      "completed": false
     }
   ]
 }
