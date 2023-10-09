@@ -2,19 +2,19 @@
   "tasks": [
     {
       "id": 1,
-      "title": "Example of a task",
-      "description": "It's a description",
-      "dueDate": "10/7/2023",
-      "time":"10:00 - 10:30",
+      "title": "Visit Diagon Alley",
+      "description": "Shop for wands, robes, and magical supplies at Diagon Alley.",
+      "dueDate": "2023-10-9",
+      "time":"09:45",
       "priority": "Medium",
       "completed": false
     },
     {
       "id": 2,
-      "title": "Just another task",
-      "description": "It's a description",
-      "dueDate": "10/8/2023",
-      "time":"12:00 - 12:30",
+      "title": "Explore the Forbidden Forest",
+      "description": "Feed Aragog",
+      "dueDate": "2023-10-13",
+      "time":"23:00",
       "priority": "High",
       "completed": false
     }
