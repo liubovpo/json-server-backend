@@ -17,14 +17,6 @@
       "time": "23:59",
       "priority": "High",
       "completed": false
-    },
-    {
-      "completed": true,
-      "id": 3
-    },
-    {
-      "completed": true,
-      "id": 4
     }
   ]
 }
