@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Visit Diagon Alley",
       "description": "Shop for wands, robes, and magical supplies at Diagon Alley.",
-      "dueDate": "2023-10-9",
+      "dueDate": "2023-10-09",
       "time": "09:45",
       "priority": "Medium",
       "completed": false
@@ -17,6 +17,14 @@
       "time": "23:59",
       "priority": "High",
       "completed": false
+    },
+    {
+      "completed": true,
+      "id": 3
+    },
+    {
+      "completed": true,
+      "id": 4
     }
   ]
 }
